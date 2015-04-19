@@ -1,0 +1,7 @@
+{
+    "description": "Cura 3D printer software"
+    ,"maintainer": "rydnr"
+    ,"executable": "/usr/bin/cura"
+    ,"access-working-directory": true
+    ,"basic-common-permissions": true
+}
